@@ -3,6 +3,7 @@
 2. Detta är mitt andra steg
 3. Nu kommer steg tre
 4. Tilllägg form
+5. Tilllägg menu
 
 # skapa branches 
 * $ git switch -C name
